@@ -1,0 +1,20 @@
+<<Pearson Assessment>>
+
+Note:
+
+Solutions to the Scenario A1, Scenario A2 and Scenario A3 are included in the word doc.
+
+The program files contain the implementation of Scenario B1 and Scenario B2.
+
+Technologies used :
+
+Eclipse IDE
+Core Java
+Selenium
+Test NG
+Maven Framework
+Page Object Model
+ Pages : com.pearson.edu\src\main\java\com\pearson\pages
+ Test : com.pearson.edu\src\test\java\com\pearson\testcases
+Scenario B1 : com.pearson.edu\src\test\java\ScrenarioB1
+Extent Reports
